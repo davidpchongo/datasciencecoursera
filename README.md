@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This is for partially fulfillment of the Data Scientist Toolbox project
+This is for partial fulfillment of the Data Scientist Toolbox project
